@@ -2,7 +2,7 @@
 # Olá mundo! Sou o Alexandre! 👋
 
 
-Tenho 6 anos de experiência em desenvolvimento de software. Tracei minha jornada inicialmente com ênfase em COBOL, complementada pela experiência em Linux. Buscando novos desafios, desde março de 2022, efetuei uma transição para o desenvolvimento de aplicativos Android, empregando Kotlin como minha linguagem principal. Sou graduado em Sistemas para Internet pelo Instituto Federal de Mato Grosso.
+Tenho 6 anos de experiência em desenvolvimento de software. Tracei minha jornada inicialmente com ênfase em COBOL, complementada pela experiência em Linux. Buscando novos desafios, desde março de 2022. Sou graduado em Sistemas para Internet pelo Instituto Federal de Mato Grosso.
 
 
 ### Habilidades
